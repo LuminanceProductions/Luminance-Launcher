@@ -1,2 +1,2 @@
 # Luminance-Launcher
-The server for the Luminance Launcher
+The server for the Luminance Launcher & dire
